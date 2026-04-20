@@ -1,0 +1,8 @@
+¿Qué producto genera más dinero?
+El filtro generó más dinero con un total de $2245
+
+¿Qué ciudad vende más?
+La ciudad que más vende es Torreón con un total de $3325
+
+¿Cuál producto tiene menor ingreso?
+El producto que generó menor ingresoo fu la Bujía con un total de $1660
