@@ -1,0 +1,10 @@
+Escribe aquí, con tus palabras:
+
+¿Cuál fue el producto con más cantidad vendida?
+El producto con más ventas fue la bujía con un total de 18 unidades vendidas
+
+¿Cuál fue el producto más caro?
+Las baterías fueron el producto más caro con un precio promedio de 1800
+
+¿Qué producto se vendió más en total?
+La bujía con 18 unidades
