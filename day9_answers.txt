@@ -1,0 +1,11 @@
+¿Qué producto vendió más dinero?
+
+El filtro es el producto con el mayor total vendido
+
+¿Qué ciudad generó más ventas?
+
+Torreón es la ciudd con el mayor total vendido
+
+¿Qué observaste en general?
+
+Que Saltillo y Monterrey tuvieron casí el mismo todal vendido y que la bujía fue el producto con menor total vendido
