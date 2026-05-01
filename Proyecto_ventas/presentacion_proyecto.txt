@@ -1,0 +1,16 @@
+En este proyecto se realizó un análisis de datos sobre las ventas de un negocio de refacciones automotrices, con el objetivo de identificar patrones clave y generar información útil para la toma de decisiones.
+Se utilizaron herramientas como Python, junto con las librerías pandas y matplotlib, para llevar a cabo la carga, limpieza, transformación y visualización de los datos. A través de estructuras como DataFrame, se organizaron los datos 
+y se aplicaron operaciones de agrupación (groupby) para analizar el comportamiento de las ventas por producto y por ciudad.
+Los principales hallazgos fueron la identificación del producto con mayor ingreso, la ciudad con mayor volumen de ventas y el precio promedio por producto. Estos resultados permiten entender mejor el desempeño del negocio 
+y detectar oportunidades de mejora.
+Este proyecto permitió desarrollar habilidades en todo el flujo de análisis de datos: desde la inspección y limpieza de información, hasta la interpretación de resultados y su presentación mediante gráficas.
+En conclusión, este análisis demuestra la importancia del uso de herramientas de análisis de datos para identificar información relevante y apoyar la toma de decisiones estratégicas.
+
+
+This project involved analyzing sales data from an automotive parts business to identify key patterns and generate useful information for decision-making.
+Tools such as Python, along with the pandas and matplotlib libraries, were used to load, clean, transform, and visualize the data. Data structures like DataFrames were used to organize the data, and grouping operations (groupby)
+were applied to analyze sales performance by product and city.
+The main findings included identifying the highest-grossing product, the city with the highest sales volume, and the average price per product. These results provide a better understanding of the business's performance and help 
+identify opportunities for improvement.
+This project fostered the development of skills throughout the entire data analysis process: from data inspection and cleaning to results interpretation and presentation through graphs.
+In conclusion, this analysis demonstrates the importance of using data analysis tools to identify relevant information and support strategic decision-making.

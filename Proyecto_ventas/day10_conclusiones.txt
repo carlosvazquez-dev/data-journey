@@ -1,0 +1,12 @@
+1. El producto que generó más dinero fue Filtro.
+Ingresó 2245 en total.
+
+2. La ciudad con más ventas fue Torreon.
+Generó 3325 en total.
+
+3. El producto con mayor precio promedio fue Bateria.
+Su precio promedio fue 1800.
+
+4. Conclusión general:
+Los datos muestran que no siempre el producto más caro es el que más dinero genera por cantidad vendida. En este caso, Filtro fue el que más ingreso total produjo porque tuvo varias ventas, mientras que Bateria 
+tuvo el precio promedio más alto pero solo una venta.
